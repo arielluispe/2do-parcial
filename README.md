@@ -1,1 +1,1 @@
-# programa que calcule el salario de un profesor
+# programa que calcula el salario de un profesor
